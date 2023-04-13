@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho_container {
+    background-color: #5da0a2;
+}
+
+.cabecalho_img_content {
+    display: inline-block;
+}
+
+.cabecalho__img{
+    width: 150px;
+    display: inline-block;
+}
+
+.cabecalho{
+    display: inline-block;
+    color: #ffffff;
+    text-align: center;
+    width: 17%;
+    vertical-align: top;
+    margin-top: 3%;
+}
+
+.cabecalho__ctt{
+    display: inline-block;
+    font-size: 12px;
+    color: #ffffff;
+    text-align: right;
+    width: 99%;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
+      
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: #ffffff;
+    color: #000000;
+    width: 100%;
+    text-align: center;
+    line-height: 12px;
+    font-size: 11px;
+    padding: 22px;
+}
+
+body {
+    background-color:#ecf0f1;
+}
+
+.img__prionLogo {
+    width: 90px;
+}
